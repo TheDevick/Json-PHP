@@ -1,0 +1,17 @@
+{
+    "name": "dinosdev/json",
+    "description": "A PHP Library for Modify JSON",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DinoDev\\Json\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DinosDev",
+            "email": "erick@bilhalba.com.br"
+        }
+    ],
+    "require": {}
+}
