@@ -1,5 +1,5 @@
 {
-    "name": "dinosdev/json",
+    "name": "dinodev/json",
     "description": "A PHP Library for Modify JSON",
     "license": "MIT",
     "autoload": {
