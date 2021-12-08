@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "DinoDev\\Json\\Classes": "src/classes"
+            "DinoDev\\Json\\Classes\\": "src/classes"
         }
     },
     "authors": [
